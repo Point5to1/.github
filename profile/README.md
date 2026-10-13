@@ -2,27 +2,33 @@
 
 **Map the work. Redesign it for AI.**
 
-Point5to1™ is a human-centered methodology for understanding and redesigning how work gets done with AI.
+Point5to1™ is a human-centered approach to understanding and redesigning how work gets done with AI.
 
-Most organizations don't have only an AI problem. They have a work-understanding problem. Before deciding what to automate or build, we make the activities, decisions, knowledge, judgment, and exceptions behind real work visible.
+As AI makes building easier, understanding what to build—and how it fits into real work—becomes increasingly important.
 
-Point5to1 is about **facilitating the journey from 0.5 to 1.0**: helping teams move beyond promising prototypes toward workflows and solutions they can build, evaluate, and refine with confidence. It doesn't mean every experiment here is a finished product.
+Point5to1 explores that challenge by making workflows, decisions, knowledge, and human judgment visible, then translating that understanding into AI-powered solutions.
 
-## Explore our work
+This is a space to **experiment, build, learn, and share the journey from 0.5 toward 1.0.**
+
+## Explore the work
 
 | Repository | What you'll find |
 | --- | --- |
-| [AI Playground](https://github.com/point5to1/ai-playground) | Experiments, agents, prototypes, skills, plugins, and calculators being explored and built in the open. |
-| [Workflow Library](https://github.com/point5to1/workflow-library) | Curated workflow intelligence, human–AI designs, specifications, and reusable patterns. |
+| [AI Playground](https://github.com/point5to1/ai-playground) | Experiments, agents, prototypes, skills, plugins, and calculators. |
+| [Workflow Library](https://github.com/point5to1/workflow-library) | Workflow intelligence, human–AI designs, specifications, and reusable patterns. |
 
-## How we approach the work
+## How I approach the work
 
 **Discover → Map → Structure → Identify → Design → Build → Evaluate & Refine**
 
-We start with how work actually happens, then determine where people, AI, and other technology can contribute. The result is clearer context for building and evaluating useful solutions.
+Start by understanding how work actually happens. Identify where people, AI, and technology can contribute. Design, build, and evaluate solutions that improve how work gets done.
 
-## Join the conversation
+## Follow the journey
 
-Explore the repositories, read the project documentation, and open an issue to share feedback or propose an idea. Projects vary in maturity; review each project's status and limitations before reuse.
+Explore the repositories, see what's being built, and share feedback or ideas. Some projects are early experiments; others are more developed and ready for reuse.
 
-**Better-designed work. AI that actually works.**
+## Behind Point5to1™
+
+Point5to1™ is an initiative by [Neil Pradhan](https://www.neilpradhan.com/), a Design Leader and Forward Deployed Product Builder exploring how people, AI, and technology can work together to redesign how work gets done.
+
+**Understand people. Redesign workflows. Build AI-powered solutions.**
